@@ -1,0 +1,15 @@
+{
+    "name": "insomnia-plugin-openrtb-validator",
+    "version": "1.0.0",
+    "description": "Plugin to validate mandatory and optional fields in OpenRTB bid responses",
+    "main": "index.js",
+    "insomnia": {
+        "name": "openrtb-validator",
+        "displayName": "OpenRTB Validator",
+        "description": "Plugin to validate mandatory and optional fields in OpenRTB bid responses",
+        "unlisted": false
+    },
+    "dependencies": {
+        "chalk": "^5.3.0"
+    }
+}
